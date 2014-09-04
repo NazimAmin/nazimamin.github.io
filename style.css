@@ -1,0 +1,52 @@
+    #pro-pic {
+    background-image: url('https://avatars3.githubusercontent.com/u/4207188?v=2&s=460');
+    height: 250px;
+    width: 250px;
+    background-size: cover;
+    background-position:center;
+    display: inline-block;
+    border-style:inset;
+    border-color: #1E1E27;
+    border-radius: 200px;
+    -moz-border-radius: 200px;
+    -webkit-border-radius: 200px;
+    }
+      body {
+      background: url(/images/bg.jpg);
+      background-size:auto;
+      background-color: black;
+      padding: 10px;
+      text-align: center;
+      background-size: cover;
+      background-position:center;
+      font-family: helvetica;
+    }
+    p {
+    font-size: 22px;
+    color: white;
+    }
+      <!-- @media (max-width: 400px){
+         #pro-pic{
+         height: 150px;
+         width: 150px;
+         background-size: cover;
+         background-position: center;
+         display: inline-block;
+         border-style:inset;
+         border-color: #1E1E27;
+         border-radius: 100px;
+         -moz-border-radius: 100px;
+         -webkit-border-radius: 100px;
+        }
+      } -->    
+#githubBadge{
+    height: 142px;
+    width: 200px;
+    display:inline-block;
+    background-color: black;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    border: 10px;
+    border-color: white;
+}
