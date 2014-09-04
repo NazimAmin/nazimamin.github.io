@@ -45,8 +45,7 @@
     display:inline-block;
     background-color: transparent;
     background-size: cover;
-    background-position: bottom;
-    position: relative;
+    background-position: relative;
     border: 10px;
     border-color: white;
 }
