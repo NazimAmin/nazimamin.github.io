@@ -1,3 +1,9 @@
+    h1 {
+        font-family: 'Source Sans Pro';
+        color: white;
+        padding: 10px;
+    }
+    
     #pro-pic {
         background-image: url('https://avatars3.githubusercontent.com/u/4207188?v=2&s=460');
         height: 250px;
@@ -21,14 +27,6 @@
         min-height: 700px;
         text-align: center;
         font-family: Helvetica Neue;
-    }
-    
-    h1 {
-        font-size: 45px;
-        font-weight: 900;
-        margin-top: 80px;
-        margin-bottom: 20px;
-        color: white;
     }
     
     p {
