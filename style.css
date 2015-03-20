@@ -6,7 +6,7 @@
         background-position: center;
         display: inline-block;
         border-style: inset;
-        border-color: #1E1E27;
+        border-color: #A1CEC2;
         border-radius: 200px;
         -moz-border-radius: 200px;
         -webkit-border-radius: 200px;
@@ -20,7 +20,15 @@
         background-size: cover;
         min-height: 700px;
         text-align: center;
-        font-family: helvetica;
+        font-family: Helvetica Neue;
+    }
+    
+    h1 {
+        font-size: 45px;
+        font-weight: 900;
+        margin-top: 80px;
+        margin-bottom: 20px;
+        color: white;
     }
     
     p {
