@@ -1,0 +1,1 @@
+$(document).ready(function(){particlesJS.load("welcome-header-container","scripts/particlesjs-config.json"),$(".fa-heart").hover(function(){$(this).toggleClass("animated rubberBand")})});
