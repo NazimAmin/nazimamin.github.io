@@ -1,10 +1,10 @@
 {
     "projects": [
         {
-            "title": "NDTNDT",
+            "title": "ProxieBee",
             "image": "NDTNDT.png",
             "info": "An ebay like auction site focusing on proxy bidding.",
-            "link": "https://github.com/NazimAmin/NDTNDT",
+            "link": "https://github.com/NazimAmin/ProxieBee",
             "caption": {
                 "at": "CSE305 - Fall 2015",
                 "tags": ["AngularJS", "Python", "SQL", "SCSS"]
