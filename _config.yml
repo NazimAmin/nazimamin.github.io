@@ -36,6 +36,8 @@ social_media:
   twitter: fizzXbuzz
   # youtube: your_username
 
+repository: nazimamin/nazimamin.github.io
+
 topics:
   - name: React
     web_url: https://github.com/topics/react
